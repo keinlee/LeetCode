@@ -1,4 +1,6 @@
-﻿# runtime:32ms
+﻿#判断路线成圆
+
+# runtime:32ms
 class Solution(object):
     def judgeCircle(self,moves):
         """

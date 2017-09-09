@@ -1,4 +1,6 @@
-﻿class Solution(object):
+﻿#汉明距离
+
+class Solution(object):
     def hammingDistance(self, x, y):
         """
         :type x: int
