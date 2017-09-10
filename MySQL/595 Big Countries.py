@@ -1,4 +1,6 @@
-﻿SELETE name,population,area
+﻿#筛选大城市
+
+SELETE name,population,area
 FROM World
 WHERE area > 3000000 OR population > 25000000;
 
